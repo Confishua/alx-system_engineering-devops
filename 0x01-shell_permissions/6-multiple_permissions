@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod r-x--xr-- /root/betty/home/hello
+chmod r-x--xr-- betty/root/hello
